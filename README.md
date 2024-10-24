@@ -20,4 +20,4 @@ This project is a replica of the Google homepage, built using HTML and CSS. It w
 
 1. Clone the repository:
    ```bash
-   git clone https://
+  yavanica123.github.io/Google-Clone/
