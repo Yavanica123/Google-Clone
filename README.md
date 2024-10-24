@@ -4,6 +4,10 @@
 
 This project is a replica of the Google homepage, built using HTML and CSS. It was my first web development project, providing a hands-on opportunity to apply foundational web design skills and understand the intricacies of front-end development.
 
+## Live Demo
+
+You can view the live project [here](https://yavanica123.github.io/Google-Clone/).
+
 ## Features
 
 - **Search Bar**: A functional search bar that mimics the look and feel of Google’s search functionality.
@@ -15,9 +19,3 @@ This project is a replica of the Google homepage, built using HTML and CSS. It w
 - HTML
 - CSS
 - Font Awesome (for icons)
-
-## Installation
-
-1. Clone the repository:
-   ```bash
-  yavanica123.github.io/Google-Clone/
